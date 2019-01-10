@@ -1,0 +1,13 @@
+PHP >= 5.3
+post_max_size=1500M
+upload_max_filesize=1500M
+extension=php_fileinfo.dll
+
+PATH CONFIG
+robot
+htaccess
+bootstrap
+system/config/database
+admin/style/js/global.js
+admin/style/js/filemanager/config/config.php
+admin/jQueryFileTree.php
